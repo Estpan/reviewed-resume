@@ -1,0 +1,35 @@
+backgroud {color: wheat
+}
+font {}
+head {
+	color: blue
+}
+body {font-family: serif;
+	background-color: wheat
+
+}
+#nav:link {
+	color: red;
+	font-weight: bold;
+} 
+#nav:hover {
+	color: green
+}
+#nav:active {
+	color: orange
+}
+div . {
+	text-align: right;
+}
+h1 {color: white;
+	font-weight: 900;
+	background color:blue;
+}
+h2 {color:gray
+
+}
+footer {color: cyan;
+	background-color: black;
+	font-weight:300;
+	text-align: center;
+}
